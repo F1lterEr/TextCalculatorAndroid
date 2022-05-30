@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextCalculator</string>
+    <string name="add">Сложить</string>
+    <string name="firstNumber">Введите первое число</string>
+    <string name="secondNumber">Введите второе число</string>
+    <string name="_0">0</string>
+</resources>
